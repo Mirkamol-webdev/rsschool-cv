@@ -5,7 +5,7 @@
 * @msd-webdew(telegram)
 
 #####Summary
->Something about me
+>I'm twenty one years old programmer. I like programming. I have learnt HTML, CSS, Photoshop. My goal to become one of the  best programmer.
 #####Skills
 * HTML
 * CSS
